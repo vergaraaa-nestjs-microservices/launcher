@@ -7,3 +7,6 @@
 [submodule "products"]
 	path = products
 	url = https://github.com/vergaraaa-nestjs-microservices/products.git
+[submodule "payments"]
+	path = payments
+	url = https://github.com/vergaraaa-nestjs-microservices/payments.git
