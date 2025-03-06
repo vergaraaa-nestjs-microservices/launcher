@@ -10,3 +10,6 @@
 [submodule "payments"]
 	path = payments
 	url = https://github.com/vergaraaa-nestjs-microservices/payments.git
+[submodule "auth"]
+	path = auth
+	url = https://github.com/vergaraaa-nestjs-microservices/auth.git
